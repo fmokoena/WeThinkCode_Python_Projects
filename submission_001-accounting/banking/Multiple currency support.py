@@ -1,0 +1,1 @@
+print("[Module] Multiple Currency Support loaded.")
